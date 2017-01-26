@@ -1,3 +1,3 @@
 # projet_dylann_thomas
 
-## ceci est __TRES IMPORTANT__
+## ceci est **TRES IMPORTANT**

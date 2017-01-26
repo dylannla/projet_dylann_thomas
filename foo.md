@@ -1,7 +1,7 @@
 
 Thomas le con coucou
 
-Thomas le con ma bite !
+Thomas le con !
 
 Hello world !
 
